@@ -1,0 +1,52 @@
+img {
+    height: 50px;
+    width: 50px;
+    background-color:aliceblue;
+    border-radius: 50%;
+   
+}
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2 {
+    margin-left: 10px;
+}
+.body {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+  
+
+}
+body {
+background-image: url("WhatsApp Image 2026-10-03 at 14.15.14.jpeg");
+background-size: cover;
+}
+.cityinput {
+    width: 60%;
+    height: 30px;
+    text-align: center;
+    border: 2px solid gainsboro;
+    border-radius: 10px;
+    font-size: 20px;
+}
+button {
+    width: 90px;
+    height: 30px;
+    border: 2px solid gainsboro;
+    border-radius: 10px;
+    margin-left: 10px;
+   
+}
+.footer {
+    text-align: center;
+    margin-top: 300px;
+}
+.weather {
+    text-align: center;
+    margin-top: 90px;
+    font-size: 25px;
+}
